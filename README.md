@@ -16,15 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minlonghuo-lab&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minlonghuo-lab&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 💬 About Me
 
 > ✨ 写代码全靠 vibe，灵感来了挡都挡不住<br>
