@@ -1,6 +1,6 @@
 # 💻 Epochwl
 
-**重度 vibe coding 的前端开发者 🎯**
+**重度 Vibe Coding 的前端开发者 🎯**
 
 ---
 
