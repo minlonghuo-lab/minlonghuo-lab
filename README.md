@@ -1,6 +1,6 @@
-👾 Hey, I'm Epochwl
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=2000&color=818CF8&vCenter=true&width=400&height=55&lines=%F0%9F%91%8B+Hey%2C+I'm+Epochwl)](https://github.com/minlonghuo-lab)
 
-👾 重度 vibe coding 的前端开发者
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=4000&color=6366F1&vCenter=true&width=450&height=40&lines=%F0%9F%91%BE+%E9%87%8D%E5%BA%A6vibe+coding%E7%9A%84%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85)](https://github.com/minlonghuo-lab)
 
 ---
 
