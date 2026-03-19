@@ -47,14 +47,12 @@
 ## 💬 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="300" alt="Snake animation" />
-</p>
 
-> ✨ 写代码全靠 vibe，灵感来了挡都挡不住
-> 
-> 🤖 AI is my co-pilot, and sometimes my driver
-> 
+> ✨ 写代码全靠 vibe，灵感来了挡都挡不住<br>
+> 🤖 AI is my co-pilot, and sometimes my driver<br>
 > 🏃 如果代码能跑，那它就是对的好吧
+
+</p>
 
 ---
 
