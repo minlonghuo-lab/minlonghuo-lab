@@ -20,9 +20,7 @@
 
 ## 💬 About Me
 
-> ✨ 写代码全靠 vibe，灵感来了挡都挡不住<br>
 > 🤖 AI is my co-pilot, and sometimes my driver<br>
-> 🏃 如果代码能跑，那它就是对的好吧
 
 ---
 
